@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Anurag Bisen 
 - 👀 I’m I am a Data Science enthusiast and extending myself towards artificial intelligence.I have worked on frameworks such as Tensorflow, Keras, Scikit-learn, and Flask. I have built several End to End projects with machine learning, deep learning, and NLP. I am also having good programming skills in Python and java along with the Knowledge of Data Structures and Algorithms.
 My key skills in data science projects include EDA, feature Engineering, data cleaning.
-
-Skills: Python / Machine Learning / Deep Learning / Feature Engineering
 - 🌱 I’m currently learning machine learning and deep learning concepts 
--  skills-
 - 📫 How to reach me ...linkedin.com/in/anurag-bisen-25a3661a1
      Email- anuragbisenofficial@gmail.com
      contact no.  9109299363
